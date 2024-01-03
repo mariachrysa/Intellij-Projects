@@ -51,3 +51,28 @@ The `SnakeAndLadder` class represents the Snake and Ladder game. It includes met
 ## Usage
 For each homework assignment, there are main methods or classes that demonstrate the functionality. Refer to the respective class files for detailed comments and explanations.
 
+
+# GUI Project
+
+This GUI project allows users to sign up and log in, maintaining a user database using SQL and jBcrypt for password hashing.
+
+## Getting Started
+
+To use this project, follow these steps:
+
+1. Download `jBCrypt-0.4.1.jar` and `sqlite-jdbc-3.42.0.0.jar`.
+
+2. Add both JAR files to the same directory as the project.
+
+## Usage
+
+- Run the `LoginGUI.java` file to open the GUI window.
+
+- Use the "Sign up" button to create a new account or the "Login" button to log in.
+
+## Dependencies
+
+- [jBCrypt](https://www.mindrot.org/projects/jBCrypt/)
+- [SQLite JDBC Driver](https://bitbucket.org/xerial/sqlite-jdbc)
+
+
