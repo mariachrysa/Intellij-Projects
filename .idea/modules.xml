@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Intellij-Projects.iml" filepath="$PROJECT_DIR$/.idea/Intellij-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homeworks/Homeworks.iml" filepath="$PROJECT_DIR$/Homeworks/Homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intellij-Projects.iml" filepath="$PROJECT_DIR$/Intellij-Projects.iml" />
     </modules>
   </component>
 </project>

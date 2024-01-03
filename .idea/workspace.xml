@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c12229bb-c11b-412d-a2f7-d9b65e5034fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/GUI.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Intellij_Projects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/LoginGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/jBCrypt-0.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/sqlite-jdbc-3.42.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homeworks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intellij-Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intellij-Projects/jBCrypt-0.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intellij-Projects/sqlite-jdbc-3.42.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Intellij-Projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project1/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project1/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project1/StackEmptyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project1/StackFullException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project1/sortStackR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project2/countElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project3/Hash_Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project3/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project3/Link_List_Seq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project3/Linked_List_Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project3/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project3/Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project4/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project4/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project4/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intellij-Projects/Project4/SnakeAndLadder.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2aQ9KE7kQiruadmZYrryzfA4iYa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maria/IdeaProjects/Intellij-Projects/GUI&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\IdeaProjects\Intellij-Projects\GUI" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoginGUI" />
+      <module name="Intellij-Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c12229bb-c11b-412d-a2f7-d9b65e5034fd" name="Changes" comment="" />
+      <created>1704239874201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704239874201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
